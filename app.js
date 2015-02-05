@@ -7,4 +7,5 @@ function multiply(x, y) {
 }
 
 add(2,3);
+add(4,5);
 multiply(3,4);
